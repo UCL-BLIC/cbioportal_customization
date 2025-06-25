@@ -58,7 +58,7 @@ skin.documentation.oql=Onco-Query-Language.md
 skin.documentation.dat=Authenticating-Users-via-Tokens.md
 
 # setting controlling the logos
-skin.right_logo=CRUK_COL_Bioinformatics.png
+skin.right_logo=CRUK_COL_Bioinformatics.jpg
 skin.tag_line_image=tag_line.png
 # setting controlling which tabs to hide.
 skin.show_news_tab=false
@@ -74,15 +74,12 @@ skin.show_about_tab=true
 # skin.show_donate_button=true
 
 # settings controlling the whats new blurb
-#skin.right_nav.whats_new_blurb=<p> &bull;<a href="news.jsp"> <b>New data and features released</b></a><br/> &bull;<a href="tools.jsp"> <b>New tools released</b></a> </p> <form action="https://groups.google.com/group/cbioportal-news/boxsub$
-skin.right_nav.whats_new_blurb=<p> <img src="images/BioinfoHub_logo.png" width="200"></p><p>The UCL Cancer Institue cBioportal instance is maintained by the  <a href="https://https://www.ucl.ac.uk/medical-sciences/divisions/cancer/translat$
->Bioinformatics Hub</a></p><p>If you would like to add your data here, please contact us at <a style="color:#FF0000" href="mailto:samuel.marguerat@ucl.ac.uk">samuel.marguerat@ucl.ac.uk</a></p>
+#skin.right_nav.whats_new_blurb=<p> &bull;<a href="news.jsp"> <b>New data and features released</b></a><br/> &bull;<a href="tools.jsp"> <b>New tools released</b></a> </p> <form action="https://groups.google.com/group/cbioportal-news/boxsubscribe"> &nbsp;&nbsp;&nbsp;&nbsp;<b>Sign up for low-volume email news alerts:</b></br> &nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="email"> <input type="submit" name="sub" value="Subscribe"> </form> &nbsp;&nbsp;&nbsp;&nbsp;<b>Or follow us <a href="http://www.twitter.com/cbioportal"><i>@cbioportal</i></a> on Twitter</b>
+skin.right_nav.whats_new_blurb=<p> <img src="images/BioinfoHub_logo.png" width="200"></p><p>The UCL Cancer Institue cBioportal instance is maintained by the  <a href="https://https://www.ucl.ac.uk/medical-sciences/divisions/cancer/translational-technology-platforms">Bioinformatics Hub</a></p><p>If you would like to add your data here, please contact us at <a style="color:#FF0000" href="mailto:samuel.marguerat@ucl.ac.uk">samuel.marguerat@ucl.ac.uk</a></p>
 
 # setting controlling the blurb
 #skin.blurb=The cBioPortal for Cancer Genomics provides <b>visualization</b>, <b>analysis</b> and <b>download</b> of large-scale cancer genomics data sets.  <p>Please adhere to <u><a href="http://cancergenome.nih.gov/abouttcga/policies/pub$
-skin.blurb=<p>This is the cBioPortal instance for the <a href="https://www.ucl.ac.uk/medical-sciences/divisions/cancer">UCL Cancer Institute</a>. <p>Please adhere to <u><a href="http://cancergenome.nih.gov/abouttcga/policies/publicationgu
-idelines"> the TCGA publication guidelines</a></u> when using TCGA data in your publications.</p> <p><b>Please cite</b> <a href="http://www.ncbi.nlm.nih.gov/pubmed/23550210">Gao et al. <i>Sci. Signal.</i> 2013</a> &amp;  <a href="http://can
-cerdiscovery.aacrjournals.org/content/2/5/401.abstract">Cerami et al. <i>Cancer Discov.</i> 2012</a> when publishing results based on cBioPortal.</p>
+skin.blurb=<p>This is the cBioPortal instance for the <a href="https://www.ucl.ac.uk/medical-sciences/divisions/cancer">UCL Cancer Institute</a>. <p>Please adhere to <u><a href="http://cancergenome.nih.gov/abouttcga/policies/publicationguidelines"> the TCGA publication guidelines</a></u> when using TCGA data in your publications.</p> <p><b>Please cite</b> <a href="http://www.ncbi.nlm.nih.gov/pubmed/23550210">Gao et al. <i>Sci. Signal.</i> 2013</a> &amp;  <a href="http://cancerdiscovery.aacrjournals.org/content/2/5/401.abstract">Cerami et al. <i>Cancer Discov.</i> 2012</a> when publishing results based on cBioPortal.</p>
 
 # setting controlling the citation below the blurb
 # skin.citation_rule_text=Please cite: <a href="http://cancerdiscovery.aacrjournals.org/content/2/5/401.abstract" target="_blank">Cerami et al., 2012</a> &amp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/23550210" target="_blank">Gao et al$
@@ -447,7 +444,6 @@ spring.devtools.restart.enabled=false
 # download_custom_buttons_json=classpath:custom_buttons/download_custom_button_avm.json
 
 # EOL - Do not delete the following lines
-
 
 
 
