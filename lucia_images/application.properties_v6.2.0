@@ -60,6 +60,7 @@ skin.documentation.dat=Authenticating-Users-via-Tokens.md
 # setting controlling the logos
 skin.right_logo=https://cbioportal-dev-blic.cs.ucl.ac.uk/reactapp/images/CRUK_COL_Bioinformatics.jpg
 skin.tag_line_image=tag_line.png
+
 # setting controlling which tabs to hide.
 skin.show_news_tab=false
 skin.show_data_tab=true
